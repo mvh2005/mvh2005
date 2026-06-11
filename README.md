@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Vignesh 👋
 
-<!--
-**mvh2005/mvh2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science-AI Student
 
-Here are some ideas to get you started:
+💻 Passionate about Software Development, AI, and Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+
+* FitCheck-AI
+* Breast Cancer Prediction using Machine Learning
+* SQL Practice Projects
+* Java Problem Solving
+
+🛠️ Tech Stack
+
+* Python
+* Java
+* SQL
+* Git & GitHub
+* Machine Learning
+* Data Science
+
+🌱 Currently Learning
+
+* Advanced Machine Learning
+* Full-Stack Development
+* AI Applications
+
+📈 GitHub Goals
+
+* Contribute to Open Source
+* Build Real-World AI Projects
+* Strengthen Data Science Skills
+
+📫 Connect with me and let's build something amazing!

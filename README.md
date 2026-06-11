@@ -4,12 +4,6 @@
 
 💻 Passionate about Software Development, AI, and Machine Learning
 
-🚀 Projects
-
-* FitCheck-AI
-* Breast Cancer Prediction using Machine Learning
-* SQL Practice Projects
-* Java Problem Solving
 
 🛠️ Tech Stack
 

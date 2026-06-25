@@ -132,7 +132,13 @@ const vignesh = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mvh2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mvh2005&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7" />
+ 
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mvh2005&bg_color=0D1117&color=00FF9C&line=a78bfa&point=FF6B35&area=true&hide_border=true)](https://github.com/mvh2005)
+
 </div>
 
 ## 🏆 LeetCode Stats

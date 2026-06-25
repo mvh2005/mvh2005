@@ -135,6 +135,16 @@ const vignesh = {
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mvh2005&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7" />
 </div>
 
+## 🏆 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/OSWaacFCbD/)
+
+<img src="https://leetcard.jacoblin.cool/OSWaacFCbD?theme=nord&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+
+</div>
+
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 

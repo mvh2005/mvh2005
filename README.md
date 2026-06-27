@@ -131,8 +131,7 @@ const vignesh = {
   <img width="49%" src="https://streak-stats.demolab.com/?user=mvh2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" />
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mvh2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&include_all_commits=true&count_private=true" />
+
  
 ## 📈 Contribution Activity
 

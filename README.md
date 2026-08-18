@@ -95,14 +95,6 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=mvh2005&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=mvh2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" />
-</div>
-
 
  
 ## 📈 Contribution Activity
